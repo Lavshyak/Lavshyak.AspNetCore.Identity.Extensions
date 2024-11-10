@@ -8,6 +8,8 @@
         <Version>8.0</Version>
         <Title>Lavshyak.AspNetCore.Identity.Extensions</Title>
         <Description>Allows easy add multiple IdentityUsers without breaking auth. </Description>
+        <Copyright>Copyright (c) 2024 Lavshyak</Copyright>
+        <RepositoryUrl>https://github.com/Lavshyak/Lavshyak.AspNetCore.Identity.Extensions</RepositoryUrl>
     </PropertyGroup>
 
     <ItemGroup>
